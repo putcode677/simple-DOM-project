@@ -28,3 +28,10 @@
 
       box.style.display = "none";
     });
+
+    // 8. show element
+    document.getElementById("showBtn")
+    .addEventListener("click", function(){
+
+      box.style.display = "block";
+    });
