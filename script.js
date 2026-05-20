@@ -35,3 +35,10 @@
 
       box.style.display = "block";
     });
+
+    // 9. classList.toggle()
+    document.getElementById("darkModeBtn")
+    .addEventListener("click", function(){
+
+      document.body.classList.toggle("dark");
+    });
