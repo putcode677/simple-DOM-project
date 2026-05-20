@@ -23,6 +23,7 @@
       cursor: pointer;
       border-color: blue;
       border-radius: 5px;
+      box-shadow: 3px 2px 4px rgb(25, 25, 1);
     }
 
     button:hover{
