@@ -21,3 +21,10 @@
 
       box.style.backgroundColor = "orange";
     });
+
+    // 7. hide element
+    document.getElementById("hideBtn")
+    .addEventListener("click", function(){
+
+      box.style.display = "none";
+    });
