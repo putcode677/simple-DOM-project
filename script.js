@@ -42,3 +42,6 @@
 
       document.body.classList.toggle("dark");
     });
+
+     // 10. innerHTML
+    title.innerHTML = "🔥 Advanced DOM Project";
