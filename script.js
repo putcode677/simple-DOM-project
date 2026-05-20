@@ -14,3 +14,10 @@
       // 5. textContent
       box.textContent = text;
     });
+
+     // 6. style property
+    document.getElementById("changeColorBtn")
+    .addEventListener("click", function(){
+
+      box.style.backgroundColor = "orange";
+    });
