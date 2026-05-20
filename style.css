@@ -17,3 +17,8 @@
       border-radius: 10px;
       box-shadow: 4px 4px 6px;
     }
+     button{
+      margin: 5px;
+      padding: 10px;
+      cursor: pointer;
+    }
