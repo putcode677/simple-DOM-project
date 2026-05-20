@@ -21,12 +21,19 @@
       margin: 5px;
       padding: 10px;
       cursor: pointer;
-      border-color: blue;
+      border-color: rgb(105, 105, 206);
       border-radius: 5px;
       box-shadow: 3px 2px 4px rgb(25, 25, 1);
     }
 
     button:hover{
-        background-color: rgb(203, 223, 53);
+        background-color: rgb(54, 157, 40);
         border-radius: 5px;
+        color: white;
+    }
+    #inputText{
+        width:300px;
+        height: auto;
+        font-size: 20px;
+        padding: 10px;
     }
